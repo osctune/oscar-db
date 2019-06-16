@@ -1,0 +1,14 @@
+{
+  "name": "@nam3/oscar-db",
+  "version": "1.0.0",
+  "description": "Database utils for OSCAR",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Oscar Tunebing <tunebingo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
