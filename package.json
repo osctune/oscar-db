@@ -6,9 +6,17 @@
   "scripts": {
     "test": "jest --watchAll"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osctune/oscar-db.git"
+  },
   "author": "Oscar Tunebing <tunebing@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "mongodb": "^3.2.7"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/osctune/oscar-db/issues"
+  },
+  "homepage": "https://github.com/osctune/oscar-db#readme"
 }
