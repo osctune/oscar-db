@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --watchAll"
   },
-  "author": "Oscar Tunebing <tunebingo@gmail.com>",
+  "author": "Oscar Tunebing <tunebing@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "mongodb": "^3.2.7"
