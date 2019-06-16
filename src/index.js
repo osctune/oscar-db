@@ -72,7 +72,7 @@ const createId = async (db) => {
 // Add hash to db.
 const addHash = async (db, url, hash) => {
     const collection = db.collection('hash');
-    await collection.insert({
+    await collection.insertOne({
         url,
         hash,
     });
