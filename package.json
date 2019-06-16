@@ -1,6 +1,6 @@
 {
   "name": "@nam3/oscar-db",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Database utils for OSCAR",
   "main": "src/index.js",
   "scripts": {
